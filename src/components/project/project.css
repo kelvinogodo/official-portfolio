@@ -1,0 +1,17 @@
+.my-container{
+    margin-top: 100px;
+}
+.project-card-container{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+    overflow: auto;
+    margin-top: 50px;
+}
+.project-img{
+    height: 350px;
+    width: 350px;
+    margin: 10px;
+    object-fit: cover;
+}
